@@ -1,6 +1,9 @@
 # Agent Kaggriculture V8
 
-Agent heuristique conçu pour participer à une simulation agricole et optimiser la gestion des cultures, des animaux, des ressources et du marché.
+
+> Agent heuristique Python pour la simulation agricole Kaggriculture : cultures, animaux, ressources et marché.
+
+Agent intelligent conçu pour optimiser la gestion d'une ferme virtuelle à l'aide de règles heuristiques.
 
 ## Présentation
 
